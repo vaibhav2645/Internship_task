@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html>
+	<head> 
+		<title>
+			Latest News
+		</title>
+		<link rel="stylesheet" href="style.css">
+
+	<head>
+	<body>
+	
+		<header>
+			<header id="he">
+			<div>
+				<div>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+				<select  id="cars" name="cars">
+				<option background-color="black" value="English">English</option>
+				<option value="saab">Hindi</option>
+				<option value="fiat">Marati</option>
+				<option value="audi">Malyalam</option>
+				<option value="audi">Gujarathi</option>
+				<option value="audi">Kanada</option>
+				<option value="audi">Tamil</option>
+				<option value="audi">Telugu</option>
+
+				</select>
+				
+				
+				| <a  id="a1"> |&nbsp; Epaper</a>| <a  id="a1">|&nbsp;GadgetsNow </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<a id="a1">SIGN IN</a>	&nbsp;&nbsp; <img src="bell.png" align="center" height="22" >&nbsp; <img src="twiter.png" align="center" height="22" >&nbsp; <img src="facebook.png" align="center" height="22" >
+				&nbsp;<img src="wifi.png" align="center" height="22" >&nbsp; <img src="youtube.png" align="center" height="22" >
+				</div>
+			</div>
+			</header>
+			<main id="ma">
+				<h1 id="h21"align="center"> THE TIMES OF INDIA </h1>
+				<h3 id="h21"align="center" color="white"> Hyderabad </h3>
+				
+			</main>
+			<footer id="foo">
+			<div>
+			<div>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<img align="center"src="home.png" height="20">
+				<a id="a2" align="center"> | Latest news</a> <a id="a2" align="center"> | Most Shared</a>
+				<a id="a2" align="center"> | Most Read</a> <a id="a2" align="center">| Most Commented</a>
+				<a id="a2" align="center"> | Delhi Elections</a>  <a id="a2" align="center"> | Bihar Elections</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="search.png" height="20" align="center">
+			</div>
+			</div>
+			</footer>
+		<main>
+			<div id="di">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href=""> News</a> >> Latest News 
+			</div>
+		
+			<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<b>LATEST NEWS </b></h1>
+			<hr width="70%" color="black" >
+		
+			<div class="container">
+				
+				<img id="im1" src="rajnath.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> 'India, China agree to disengage along Pangong' </h3>
+					<h5 id="p2"> Defence minister Rajnath Singh on Thursday said that sustained talks with China have led to an agreement on disengagement along the North and South banks of Pangong Lake. Briefing both the Houses of Parliament on the present situation in Eastern Ladakh​, Singh said India and China will be removing forward deployments in a phased and coordinated manner. 
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+			<div class="container">
+				
+				<img id="im1" src="mahacm.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> Maha CM says no to governor Koshyari for yse of VVIP aircraft </h3>
+					<h5 id="p2"> Following an unusual turn of events, the governor of Maharashtra, Bhagat Singh Koshyari was denied the use of state govt aircraft to fly to Dehradun on Thursday morning. After no approval came from CM Uddhav Thackeray for the special VVIP flight, the governor and his entourage decided to board an airline flight to the destination instead, said an aviation source.
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+
+			<div class="container">
+				
+				<img id="im1" src="thegang.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> This gang cheated 200 plot owners </h3>
+					<h5 id="p2"> Vikram Gujral of Delhi’s Old Rajinder Nagar and Kamal Kishore Khosla of the 2006 blockbuster have an uncanny resemblance. Both of them had bought plots decades ago in the then developing outskirts of Delhi and hoped to build houses when they retired. And during a casual visit to their plots one day, both found their property grabbed by land sharks.
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+
+			
+
+			
+
+			<div class="container">
+				
+				<img id="im1" src="drilling.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> Drilling Operation launched at Tapovan tunnel</h3>
+					<h5 id="p2">Rescuers launched a drilling operation on Thursday at the Tapovan tunnel, where an estimated 30-35 people have been trapped since a flash flood battered various villages and hydro-power projects in Uttarakhand's Chamoli district, claiming 34 lives, while about 170 people are still missing.
+					The focal point of the multi-agency rescue operation for the last over four days remains the more-than-1.5-km-long "head-race tunnel" of the total 2.5 km of the tubular structure.
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+
+			<div class="container">
+				
+				<img id="im1" src="2nd.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> 2nd Test: India seek revenge as crowds return </h3>
+					<h5 id="p2">England, led by Joe Root, outplayed India to win by 227 runs on Tuesday to lead the four-match series 1-0 and jump to the top of the inaugural World Test Championship table. It was a shock loss for India, coming into the encounter flying high after their historic series win in Australia.
+					It was a shock loss for India, coming into the encounter flying high after their historic series win in Australia and with the talismanic Kohli back in the side after his paternity break.
+
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+
+			<div class="container">
+				
+				<img id="im1" src="prasad.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> Social media platforms should follow law: Prasad</h3>
+					<h5 id="p2"> The Centre on Thursday categorically cautioned social media platforms against spreading fake news or anything inciting violence, as Information Technology Minister Ravi Shankar Prasad said action will be taken if Indian laws were flouted.
+The government, he said, was committed to freedom of media and rights of individuals but it was equally concerned about safety, security, and law and order in the country.
+					</h5>
+				</div>
+			</div>			
+			<hr width="70%">
+			<div class="container">
+				
+				<img id="im1" src="air.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> Domestic airfares hiked upto 30%; capacity capped at 80% till March </h3>
+					<h5 id="p2">Flying within the country will cost up to 30% more from now. The government has increased the minimum and maximum fares set for different routes, while extending its earlier decision of allowing airlines to deploy up to 80% of their pre-Covid domestic capacity till March 31, 2021. While minimum fare has been increased by 10%, maximum fares are up by 30%.
+
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+			<div class="container">
+				
+				<img id="im1" src="singhu.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> Singhu border: Farmers improve unfra for protest </h3>
+					<h5 id="p2">With a resolution of the stalemate over the new farm legislation seeming unlikely anytime soon, the agitating farmers at the Singhu border have started strengthening the infrastructure at the protest site to prepare for a long haul.
+The leaders of the Samyukta Kisan Morcha, leading the protest, have reiterated to continue the agitation indefinitely till the Modi government scraps the three contentious farm laws and extends a legal guarantee of the minimum support price (MSP) for crops.
+
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+			<div class="container">
+				
+				<img id="im1" src="amit.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial"> Mamata will chant 'Jai Shri Ram': Amit Shah </h3>
+					<h5 id="p2">Union home minister Amit Shah on Thursday slammed Mamata Banerjee for opposing 'Jai Shri Ram' slogan and said the West Bengal chief minister will chant it before the assembly elections are over in the state. Addressing a rally before flagging off the fourth of the five 'Parivartan Yatras' planned by the BJP ahead of the assembly polls, Amit Shah said "If 'Jai Shri Ram' is not chanted in India, will it be chanted in Pakistan? You get angry over it because you want to appease a particular section of people for vote bank politics."
+
+
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+			<div class="container">
+				
+				<img id="im1" src="covid.jpg" height="120" width="180">
+				<div class="text"> 
+					<h3 font style="arial">Covid: Which arm should ypu get the vaccine in? </h3>
+					<h5 id="p2">The vaccination drive has started in various parts of the world to protect people against the novel coronavirus. The vaccination right now is being given to frontline workers like doctors, nurses, army and other people who are helping in the treatment and management of COVID-19 patients. The vaccine is expected to be available for the general public soon. And naturally, people have a lot of questions and apprehensions about getting the vaccine.
+
+
+					</h5>
+				</div>
+			</div>
+			<hr width="70%">
+		<footer id="foot">
+		<header id="hee">
+		</header>
+<div>
+<font color="E8E8E8" size="3">
+<h5>&nbsp;OTHER TIMES GROUP NEWS SITES:</h5></font>
+<table color="black" id="nik">
+<tr>
+<td>The Economic Times</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hindi Economic Times</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navbharat Times</td>
+</tr>
+<tr>
+<td>The Maharastra Times</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vijaya Karnataka</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Telugu samayam</td>
+</tr>
+<tr>
+<td>Tamil Samayam</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Malayala Samayam</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ei Samaya</td>
+</tr>
+<tr>
+<td>Iam Gujarat</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Times Now</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Times Now Hindi</td>
+</tr>
+<tr>
+<td>TimesPoints</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indiatimes</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BrandCapital</td>
+</tr>
+<tr>
+<td>Education Times</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Times Food</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miss Kyra</td>
+</tr>
+<tr>
+<td>Mumbai Mirror</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pune Mirror</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amhadebad Mirror</td>
+</tr>
+<tr>
+<td>Banglore Mirror</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mx Player</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hindi podcast</td>
+</tr>
+<tr>
+<td>Bengali podcast</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mx sahrekaro</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mx takatak app</td>
+</tr>
+</table>
+<font color="E8E8E8" size="3">
+<h5>&nbsp;LIVING AND ENTERTAINMENT:</h5></font>
+<table color="black" id="nik">
+<tr>
+<td>iDiva</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menxp.com</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;femina</td>
+</tr>
+<tr>
+<td>Etimes</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grazia</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zoom</td>
+</tr>
+<tr>
+<td>Travel Destinations</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BombayTimes</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cricbuzz.com</td>
+</tr>
+<tr>
+<td>FilmFare</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online songs</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TV</td>
+</tr>
+<tr>
+<td>LifeStyle</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LongWalks App</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NewsPaper Subscription</td>
+</tr>
+<tr>
+<td>Food News</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Times Prime</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What Hot</td>
+</tr>
+</table>
+<font color="E8E8E8" size="3">
+<h5>&nbsp;TOP TRENDS:</h5></font>
+<table color="black" id="nik">
+<tr>
+<td>Uttarakhand News</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India vs England</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;farmers protest</td>
+</tr>
+<tr>
+<td>koo app</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;corona india updates</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sapna choudhary</td>
+</tr>
+<tr>
+<td>Narendra modi</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MG Hector cvt Price</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jack Ma</td>
+</tr>
+<tr>
+<td>Study Abroad Exams</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sensex</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RRB NTVC AdmitCard</td>
+</tr>
+<tr>
+<td>News</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Step by step pizza</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horoscope</td>
+</tr>
+<td>Petrol Price in Delhi</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Farmers protest in India</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Royal Enfield Himayala</td>
+</tr>
+</table>
+
+		</footer>
+			
+	</body>
+	
+</html>
